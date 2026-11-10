@@ -1,2 +1,2 @@
-# pokemon-discord-bot
-random pokemon generator, revisited
+# Pokemon Generator
+random pokemon generator with Pokedex feature
